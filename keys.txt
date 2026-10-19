@@ -1,6 +1,2 @@
-
-
-SP-MONTH-01 2026-11-19     подписка на месяц (до конца 19.11.2026 UTC)
-SP-MONTH-02 2026-11-19
-SP-LIFE-01                 навсегда
-BetaTest123 2026-10-18
+# keys of the SP loader: each line is the SHA-256 hash of a key, never the key itself
+a7a46192da4d9e37450a23902f929041f5dc5e4403b45c699d3ac04712cb3b6e 2026-11-18 @yowls
